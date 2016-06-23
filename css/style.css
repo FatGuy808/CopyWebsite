@@ -1,12 +1,44 @@
-body{
-	text-align: :center;
+#divgreen{
+     
 }
 
 #top{
-	text-align: :center;
-	background-color: :green;
-	margin: 10px
-	height: 400px
+	background-color: green;
+	margin: 1350px
+	height: 500px
 	
 }
 
+#work{
+	color: white;
+	height: 50px;
+	height: 1350px: lightgreen;
+}
+
+#title{
+	text-align: :center;
+	color: :black
+}
+
+#circle1{
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	border-radius: 100px;
+	margin-left: 425px;
+}
+#cicle2{
+    height: 100px;
+	width: 100px;
+	background-color: blue;
+	border-radius: 100px;
+	margin-right: 200px;
+}
+
+#circle3{
+    height: 100px;
+	width: 100px;
+	background-color: blue;
+	border-radius: 100px;
+	margin-middle: 200px;   
+}
